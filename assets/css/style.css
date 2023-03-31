@@ -24,7 +24,7 @@ h1, h2{
 }
 
 #logo{
-    float:left;
+    float: left;
     font-size: 280%;
 }
 
@@ -43,7 +43,18 @@ h1, h2{
     margin: 30px;
 }
 
+#menu a{
+    color: inherit;
+    font-weight: bold;
+}
 
+#menu a:hover{
+    border-bottom: 1px solid #3a3a3a;
+}
+
+.active{
+    border-bottom: 1px solid #3a3a3a;
+}
 
 
 
