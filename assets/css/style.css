@@ -132,7 +132,6 @@ h1, h2{
     padding-top: 30px;
     width: 33%;
     margin: 0 auto;
-    background-color: green;
 }
 
 hr{
@@ -162,4 +161,27 @@ hr{
 
 .right-about-heading p{
     text-align: right;    
+}
+
+#welcome{
+    text-align: center;
+    margin: 20px 0;
+    font-size: 280%;
+}
+
+.circle-container{
+    width: 300px;
+    height: 300px;
+    margin: 0 auto;
+    padding: 30px;
+    border-style: solid;
+    border-color: #adadad;
+    border-width: 1px;
+    border-radius: 50%;
+}
+
+#circle-cover-bg{
+    background: url('../images/ethos-center-image.jpg') center center no-repeat;
+    height: 100%;
+    border-radius: 50%;
 }
