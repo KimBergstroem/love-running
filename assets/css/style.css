@@ -14,7 +14,7 @@ body{
     color: #3a3a3a;
 }
 
-/* Header and Nav Style */
+/* Nav Style */
 
 h1, h2{
     font-family: Oswald, "sans-serif";
@@ -178,10 +178,15 @@ hr{
     border-color: #adadad;
     border-width: 1px;
     border-radius: 50%;
+    background-color: rgb(105, 105, 105);
 }
 
 #circle-cover-bg{
-    background: url('../images/ethos-center-image.jpg') center center no-repeat;
+    background: url('../images/ethos-center-image.jpg') 
+    black
+    center center 
+    no-repeat;
     height: 100%;
     border-radius: 50%;
 }
+
