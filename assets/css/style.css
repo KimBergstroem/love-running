@@ -231,6 +231,7 @@ footer ul li{
     font-size: 160%;
     padding: 5%;
     margin: 5px;
+    text-align: center;
 }
 
 footer a{
@@ -316,6 +317,15 @@ footer a{
         width: inherit;
     }
 
+    #left-about{
+        margin-top: 55px;
+    }
+    #right-about{
+        margin-bottom: 40px;
+    }
+    #center-about{
+        margin-bottom: 60px;
+    }
     .left-about-heading h2, .right-about-heading h2{
         width: 100%;
         text-align: center;
