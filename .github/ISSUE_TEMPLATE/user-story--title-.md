@@ -1,5 +1,5 @@
 ---
-name: USER STORYIES
+name: USER STORY <title>
 about: USER STORY <title>
 title: ''
 labels: ''
